@@ -1,0 +1,1 @@
+Simply put your display into powersave state. That's all.
